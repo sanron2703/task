@@ -1,0 +1,64 @@
+
+.navbar{
+    background-color: yellow;
+    
+}
+
+.heading{
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffff59;
+}
+.heading p{
+    font-size: 18px;
+}
+
+.discription{
+    text-align: center;
+    background-color: #ffff59;
+    padding:20px;
+}
+.card-title a{
+    background-color: yellow;
+}
+
+.about{
+    padding:10px;
+    margin:10px;
+    text-align: center;
+    background-color: #ffff59;
+    border:1px solid;
+   
+}
+
+.text-center{
+    background-color:#ffff59;
+    display: inline-flexbox;
+    border:1px solid;
+    margin:10px;
+    padding:10px;
+    
+}
+.follow{
+    display:flex;
+    justify-content: center;
+   padding: 10px;
+   margin: 35px;
+   border:2px solid green;
+   
+  
+}
+
+/* -----tassels---- */
+.cost{
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* -----workshop----- */
+.work{
+    text-align: center;
+    background-color:#ffff59 ;
+    padding: 10px;
+}
